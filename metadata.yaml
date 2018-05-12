@@ -1,0 +1,25 @@
+_repo: Esperanza_18858
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 18858-h/images/cover_t.jpg
+creator:
+  author:
+    agent_name: Rivera, Jose Maria
+    birthdate: 1882
+    gutenberg_agent_id: '6612'
+    url: http://www.gutenberg.org/2009/agents/6612
+description: ''
+gutenberg_issued: '2006-07-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '18858'
+language: tl
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PL'
+- !lcsh 'Tagalog drama'
+title: Esperanza
+url: http://www.gutenberg.org/ebooks/18858
